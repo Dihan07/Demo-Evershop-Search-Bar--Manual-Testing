@@ -1,6 +1,8 @@
 ## 📋 Project Overview
 
-This is a small testing project for the search functionality on the Evershop demo site (https://demo.evershop.io/)
+This is a small testing project  on the Evershop demo site (https://demo.evershop.io/)
+- where I ran, implemented, and executed test cases for  the search functionality
+- and executed a happy path journey from both API and UI
 
 ## 🔗 Test Case Document
 
