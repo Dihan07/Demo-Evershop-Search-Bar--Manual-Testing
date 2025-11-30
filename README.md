@@ -1,10 +1,10 @@
 ## 📋 Project Overview
 
-This repository contains test cases and execution reports for the dynamic search feature implementation on an e-commerce platform. The testing covers search functionality, product filtering, and cart operations.
+This is a small testing project for the search functionality on the Evershop demo site (https://demo.evershop.io/)
 
 ## 🔗 Test Case Document
 
-**View the complete test cases:** [Test Cases Google Sheet](YOUR_GOOGLE_SHEET_LINK_HERE)
+**View the complete test cases:** [Test Cases Google Sheet](https://docs.google.com/spreadsheets/d/1fvL08nQQn2pzGeLFUBy81LEsU_6fBE5llJeL2rOB-oY/edit?usp=sharing)
 
 ## 📊 Test Case Structure
 
