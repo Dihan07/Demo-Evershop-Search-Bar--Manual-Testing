@@ -4,6 +4,10 @@ This is a small testing project  on the Evershop demo site (https://demo.eversho
 - where I ran, implemented, and executed test cases for  the search functionality
 - and executed a happy path journey from both API and UI
 
+## Author
+
+[@Dihan07](https://github.com/Dihan07)
+
 ## 🔗 Test Case Document
 
 **View the complete test cases:** [Test Cases Google Sheet](https://docs.google.com/spreadsheets/d/1fvL08nQQn2pzGeLFUBy81LEsU_6fBE5llJeL2rOB-oY/edit?usp=sharing)
@@ -49,9 +53,4 @@ All test cases were manually executed on the Evershop demo site. Results are doc
   - Cart retrieval and validation
 
 
-
-## 👤 Author
-
-[Tanveer Kaiser
-]
 
